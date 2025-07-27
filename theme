@@ -1,0 +1,11 @@
+mixmaster-shopify-theme/
+├── LICENSE
+├── README.md
+├── .gitignore
+├── assets/
+├── config/
+├── layout/
+├── locales/
+├── sections/
+├── snippets/
+└── templates/
